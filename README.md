@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 . | .
 --|--
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pranshuag9&show_icons=true&theme=aura&hide_border=false&locale=en&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshuag9&layout=compact&hide=jupyter%20notebook)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranshuag9&show_icons=true&theme=aura&hide_border=false&locale=en&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshuag9&layout=compact&hide=jupyter%20notebook) 
+| ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranshu)
 </center>
 
 ------------
