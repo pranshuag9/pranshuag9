@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=username)
 -->
-![Counter](https://komarev.com/ghpvc/?username=pranshuag9&style=flat-square&label=Profile%20Views) | [![wakatime](https://wakatime.com/badge/user/57427554-dd67-4588-bde7-03eb4fae2659.svg)](https://wakatime.com/@57427554-dd67-4588-bde7-03eb4fae2659)
+<!-- ![Counter](https://komarev.com/ghpvc/?username=pranshuag9&style=flat-square&label=Profile%20Views) | [![wakatime](https://wakatime.com/badge/user/57427554-dd67-4588-bde7-03eb4fae2659.svg)](https://wakatime.com/@57427554-dd67-4588-bde7-03eb4fae2659)
 ------------
 <h1>GitHub streak stats</h1>
 
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 </center>
 
 ------------
+-->
