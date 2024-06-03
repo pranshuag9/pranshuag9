@@ -24,11 +24,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pranshuag9/pranshuag9/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pranshuag9/pranshuag9/output/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/45304978/213288910-23a77df1-6b51-4d58-9d9b-374cad969757.svg)
+<!--![github-contribution-grid-snake](https://github.com/pranshuag9/pranshuag9/github-contribution-grid-snake.svg)-->
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aggarwalpranshu/)
 ![](https://komarev.com/ghpvc/?username=pranshuag9&color=red)
